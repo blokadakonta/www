@@ -1,4 +1,4 @@
-## www.blokadakonta.pl
+# [blokadakonta.pl](https://blokadakonta.pl)
 
 
 + Jak zabezpieczyć się na wypadek zablokowania konta?
@@ -6,6 +6,13 @@
 
 
 
+
+## Inne tematy:
+
++ [Zaplanuj Biznes](https://www.zaplanujbiznes.pl/)
++ [Dlaczego warto robić biznes w Niemczech? dlaczego.de](https://www.dlaczego.de)
++ [Dlaczeo warto i jak zostać rezydentem niemieckim? rezydent.de](https://www.rezydent.de)
++ [Jak zostać nierezydentem polskim? nierezydent.pl](https://www.nierezydent.pl/)
 
 
 ---
