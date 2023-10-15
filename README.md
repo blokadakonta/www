@@ -1,6 +1,12 @@
 # [blokadakonta.pl](https://blokadakonta.pl)
 
 
+platforma łącząca społeczność w przypadku blokady konta społeczenościowego lub ataku cybeprzestępców.
+do kontaktu dla tych, którzy zostali zablokowani i dla tych, którzy chcieliby się skontaktować z nimi.
+
+
+
+
 + Jak zabezpieczyć się na wypadek zablokowania konta?
 + Co robić, gdy konto na social media zostanie zablokowane?
 
